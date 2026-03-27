@@ -208,3 +208,8 @@ Folsyre ≠ folinsyre
 - <span class="fragment highlight-blue">Autoantistoffer mot FRα</span>
 
 ## Autoantistoffer mot FRα
+- Ramaekers VT, N Blau. Develop Med Child Neuro. (2004): **Idiopatisk cerebral folatmangel**
+  - ↓ Sp-5-MTHF, normal sekvensering av FOLR1 (FRα)
+- Ramaekers VT et al. NEJM (2005): **Autoantistoffer ved idiopatisk cerebral folatmangel**
+  - 28 barn m/↓ Sp-5-MTHF, 28 kontroller, 41 pasienter m/annen nevrologisk sydom
+  - Blokkerende FRα-antistoffer i 25/28 av CFD-pasienter, 0 av 28 kontroller
