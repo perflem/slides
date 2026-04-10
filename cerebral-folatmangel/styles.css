@@ -5,10 +5,11 @@
 .icon-text {
   display: flex;
   align-items: center;
-  gap: 0.2em;
+  gap: 0.5em;
   font-size: 1.2em;
   width: fit-content;   /* gjør boksen “så smal som mulig” */
   margin: 0 auto;
+  padding: 20%;
 }
 
 .icon-text .icon {
@@ -19,5 +20,4 @@
 
 .icon-text .content {
   flex: 1;
-  font-weight: bold;
 }
