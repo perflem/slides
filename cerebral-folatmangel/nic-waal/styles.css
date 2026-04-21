@@ -1,0 +1,23 @@
+.text-center {
+  text-align: center;
+}
+
+.icon-text {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  font-size: 1.2em;
+  width: fit-content;   /* gjør boksen “så smal som mulig” */
+  margin: 0 auto;
+  padding: 20%;
+}
+
+.icon-text .icon {
+  flex: 0 0 auto;
+  font-size: 2em;   /* juster ikonstørrelse */
+  line-height: 1;
+}
+
+.icon-text .content {
+  flex: 1;
+}
